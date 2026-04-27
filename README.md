@@ -25,3 +25,7 @@ I use Arch btw.
 ### Other
 ![RaspberryPI](https://img.shields.io/badge/Raspberry_pi-darkred?logo=raspberry-pi)
 ![Git](https://img.shields.io/badge/Git-grey?logo=git)
+
+### My Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keeze392&layout=compact&theme=tokyonight)

@@ -9,7 +9,7 @@ I use Arch btw.
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-grey?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-purple?logo=cplusplus)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-28692D.svg?logo=cshrp)
 ![Python](https://img.shields.io/badge/Python-darkblue?logo=python)
 ![Rust](https://img.shields.io/badge/Rust-orange?logo=rust)

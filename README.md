@@ -1,5 +1,6 @@
 # Heya! I am Keeze.
 
+I'm self-taught programmer.
 I enjoy technologies very much and wanted to learn more. It making me so much motivation. \
 On my profile shows lists means i have been doing and learned about it. \
 I use Arch btw.
